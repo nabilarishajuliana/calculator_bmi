@@ -24,19 +24,19 @@ function Footer() {
 				<ul className='text-black'>
 					<li>
 						<a rel="noopener noreferrer" href="https://instagram.com/ly.ek4?igshid=NTc4MTIwNjQ2YQ==" 
-                        className="hover:dark:text-white">Eka Rahayu</a>
+                        className="hover:text-white">Eka Rahayu</a>
 					</li>
 					<li>
 						<a rel="noopener noreferrer" href="https://instagram.com/maharaniiibp?igshid=NTc4MTIwNjQ2YQ==" className="hover:dark:text-white">Maharani B'anica</a>
 					</li>
 					<li>
-						<a rel="noopener noreferrer" href="https://instagram.com/nabilafrhn_?igshid=NTc4MTIwNjQ2YQ==" className="hover:dark:text-white">Nabila Farahana</a>
+						<a rel="noopener noreferrer" href="https://instagram.com/nabilafrhn_?igshid=NTc4MTIwNjQ2YQ==" className="hover:text-white">Nabila Farahana</a>
 					</li>
 					<li>
 						<a rel="noopener noreferrer" href="https://www.instagram.com/nabilarisha01/" className="hover:dark:text-white">Nabila Risha</a>
 					</li>
 					<li>
-						<a rel="noopener noreferrer" href="https://instagram.com/nayl.amalia?igshid=NTc4MTIwNjQ2YQ==" className="hover:dark:text-white">Nayla Nur</a>
+						<a rel="noopener noreferrer" href="https://instagram.com/nayl.amalia?igshid=NTc4MTIwNjQ2YQ==" className="hover:text-white">Nayla Nur</a>
 					</li>
                     <li>
 						<a rel="noopener noreferrer" href="https://instagram.com/zha.dzakirah27?igshid=NTc4MTIwNjQ2YQ==" className="hover:text-white">Ratu Charmenita</a>
