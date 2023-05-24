@@ -66,7 +66,7 @@ function Nav() {
         <ul class="flex items-center hidden space-x-8 lg:flex">
           <li>
             <a
-              href="https://news-web-kelompok7-new.vercel.app/"
+              href="https://news2-alpha.vercel.app/"
               class="inline-flex items-center justify-center h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-orange-600 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none"
               aria-label="Sign up"
               title="Sign up"
@@ -188,7 +188,7 @@ function Nav() {
                     </li>
                     <li>
                       <a
-                        href="https://sports-news-iota.vercel.app/"
+                        href="https://news2-alpha.vercel.app/"
                         class="inline-flex items-center justify-center w-full h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-orange-600 hover:bg-slate-500 focus:shadow-outline focus:outline-none"
                         aria-label="Sign up"
                         title="Sign up"
